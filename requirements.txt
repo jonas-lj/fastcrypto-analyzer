@@ -21,7 +21,7 @@ fastjsonschema==2.16.2
 fonttools==4.38.0
 idna==3.4
 ipykernel==6.16.2
-ipython==8.6.0
+ipython==7.34.0
 ipython-genutils==0.2.0
 jedi==0.18.1
 Jinja2==3.1.2
