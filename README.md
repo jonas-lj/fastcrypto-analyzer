@@ -3,4 +3,4 @@
 # fastcrypto-analyzer
 Jupiter notebook for analyzing benchmarks from the fastcrypto repository.
 
-The notebook may be downloaded and used locally or examined using <a href="https://nbviewer.org/github/jonas-lj/fastcrypto-analyzer/blob/main/notebook.ipynb">nbviewer</a>.
+The notebook may be downloaded and used locally or using [Binder](https://mybinder.org/v2/gh/Jonas-lj/fastcrypto-analyzer/3e969d7d991378104bbbc5df199e162baffeeae5?urlpath=lab%2Ftree%2Fnotebook.ipynb).
