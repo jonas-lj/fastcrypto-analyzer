@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jonas-lj/fastcrypto-analyzer/main?labpath=notebook.ipynb)
+
 # fastcrypto-analyzer
 Jupiter notebook for analyzing benchmarks from the fastcrypto repository.
 
